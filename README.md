@@ -1,7 +1,7 @@
 # 💫 Hi there, I'm Muzammil Awan!
 
 🌱 **Learning:** Full-Stack Web Development (MERN Stack)  
-⚡ **Fun Fact:** I'm an undergraduate student building modern web applications.
+⚡ **Fun Fact:** I'm an undergraduate student actively building my skills and working on projects.
 
 ---
 
@@ -11,16 +11,16 @@
   <a href="https://instagram.com/itx.muzz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:ytmalikbhai@gmail.com">
+  <a href="mailto:muzammilawan.dev9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack & Tools I'm Learning
 
-**Core (MERN Stack Focus):**
+**Currently Exploring (MERN Stack & Frontend):**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
@@ -34,30 +34,35 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-**Side & Foundational Skills:**
+**Foundational Concepts:**
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+**Environment & Support Skills:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Basics" />
+  <img src="https://img.shields.io/badge/PC%20Troubleshooting-%233776AB.svg?style=for-the-badge" alt="PC Troubleshooting" />
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
 </p>
 
 ---
 
-### 🧠 Core Competencies & Soft Skills
+### 🧠 Skills & Practices I'm Developing
 
 <p align="left">
   <img src="https://img.shields.io/badge/Problem%20Solving-%23FF6F61.svg?style=for-the-badge" alt="Problem Solving" />
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%23007ACC.svg?style=for-the-badge" alt="DSA" />
   <img src="https://img.shields.io/badge/RESTful%20APIs-%2300C7B7.svg?style=for-the-badge" alt="RESTful APIs" />
   <img src="https://img.shields.io/badge/Responsive%20Design-%237952B3.svg?style=for-the-badge" alt="Responsive Design" />
-  <img src="https://img.shields.io/badge/Teamwork%20&%20Collaboration-%234CAF50.svg?style=for-the-badge" alt="Collaboration" />
 </p>
 
 ---
 
-### 🚀 What I's Focused On
-- 🌐 Mastering the **MERN stack** (MongoDB, Express, React, Node.js) to build dynamic, full-stack applications.
-- 🎨 Crafting sleek, modern UIs using **Tailwind CSS** and React.
-- ⚙️ Understanding backend architecture, RESTful APIs, and database design.
+### 🚀 What I'm Focused On
+- 📚 Learning the **MERN stack** (MongoDB, Express, React, Node.js) step-by-step through practical practice.
+- 🎨 Practicing modern UI styling with **Tailwind CSS** and building responsive web layouts.
+- 🧩 Improving my problem-solving logic and understanding core computer science concepts.
 
 ---
 
