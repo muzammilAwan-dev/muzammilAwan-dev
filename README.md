@@ -1,7 +1,7 @@
-# 💫 About Me
+# 💫 Hi there, I'm Muzammil Awan!
 
-🌱 **Learning:** Web Development  
-⚡ **Fun Fact:** I'm an undergraduate student  
+🌱 **Learning:** Full-Stack Web Development (MERN Stack)  
+⚡ **Fun Fact:** I'm an undergraduate student building modern web applications.
 
 ---
 
@@ -18,20 +18,50 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
 
+**Core (MERN Stack Focus):**
 <p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+**Side & Foundational Skills:**
+<p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🧠 Core Competencies & Soft Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem%20Solving-%23FF6F61.svg?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%23007ACC.svg?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-%2300C7B7.svg?style=for-the-badge" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-%237952B3.svg?style=for-the-badge" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Teamwork%20&%20Collaboration-%234CAF50.svg?style=for-the-badge" alt="Collaboration" />
+</p>
+
+---
+
+### 🚀 What I's Focused On
+- 🌐 Mastering the **MERN stack** (MongoDB, Express, React, Node.js) to build dynamic, full-stack applications.
+- 🎨 Crafting sleek, modern UIs using **Tailwind CSS** and React.
+- ⚙️ Understanding backend architecture, RESTful APIs, and database design.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=muzammilAwan-dev&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" height="165" />
@@ -40,10 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilAwan-dev&theme=dark&hide_border=false&v=2" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilAwan-dev&theme=react-dark&v=2" alt="Activity Graph" />
 </p>
 
 ---
