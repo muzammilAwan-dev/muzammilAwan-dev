@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilAwan-dev&theme=dark&hide_border=false&v=2" alt="GitHub Streak" height="165" />
+ <img src="https://streak-stats.demolab.com/?user=muzammilAwan-dev&theme=dark&hide_border=false&v=2" alt="GitHub Streak" height="165" />
 </p>
 
 ---
