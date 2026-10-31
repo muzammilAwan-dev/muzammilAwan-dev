@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Muzammil Awan!
+# 💫 Hi there, I'm Muhammad Muzammil !
 
 🌱 **Learning:** Full-Stack Web Development (MERN Stack)  
 ⚡ **Fun Fact:** I'm an undergraduate student actively building my skills and working on projects.
